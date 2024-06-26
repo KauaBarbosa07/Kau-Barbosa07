@@ -1,1 +1,3 @@
-# Kau-Barbosa07
+Meu nome Kauã Barbosa
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
